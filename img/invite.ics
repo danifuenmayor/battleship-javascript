@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20200602T153000Z
+DTEND:20200602T163000Z
+DTSTAMP:20200601T144350Z
+ORGANIZER;CN=paulo.montoya@selyt.com:mailto:paulo.montoya@selyt.com
+UID:390q6uul3kt31peuv4l9l787s8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=roddy@selyt.com;X-NUM-GUESTS=0:mailto:roddy@selyt.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=paulo.montoya@selyt.com;X-NUM-GUESTS=0:mailto:paulo.montoya@selyt.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=danifuenmayor7@gmail.com;X-NUM-GUESTS=0:mailto:danifuenmayor7@gmail
+ .com
+X-MICROSOFT-CDO-OWNERAPPTID:-1694212575
+CREATED:20200601T144212Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/qvz-bbkr-
+ szh\n+55 11 4949-4127 PIN: 836360684#\nView more phone numbers: https://tel
+ .meet/qvz-bbkr-szh?pin=1880244720483&hs=7\n\nView your event at https://www
+ .google.com/calendar/event?action=VIEW&eid=MzkwcTZ1dWwza3QzMXBldXY0bDlsNzg3
+ czggZGFuaWZ1ZW5tYXlvcjdAbQ&tok=MjMjcGF1bG8ubW9udG95YUBzZWx5dC5jb21mZGY4MGQx
+ ZmNjYWIyZTYzOWQ0NGY1OTBjYWYzZDk0YmJhZTNmNjVh&ctz=America%2FSantiago&hl=en_G
+ B&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200601T144348Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Entrevista Selyt - Daniela Fuenmayor
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
